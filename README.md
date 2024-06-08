@@ -1,0 +1,2 @@
+# aplikasi_rencana_dan_laporan_studi_mahasiswa
+menggunakan bahasa pemrograman Pascal
